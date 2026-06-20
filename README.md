@@ -1,6 +1,6 @@
 # 🎓 Campus-Connect-System-Design
 
-> Designing the architecture behind CampusConnect — upgrading the product.
+> Designing the architecture behind CampusConnect — scaling the product.
 
 ---
 
@@ -127,6 +127,7 @@ campus-connect-system-design
 ├── low-level-design
 │
 └── decisions
+```
 
 # 🛣️ System Design Roadmap
 
