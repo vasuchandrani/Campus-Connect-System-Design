@@ -126,7 +126,7 @@ campus-connect-system-design
 │
 ├── low-level-design
 │
-└── decisions
+└── design-history
 ```
 
 # 🛣️ System Design Roadmap
